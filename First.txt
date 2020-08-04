@@ -1,2 +1,4 @@
 Merhaba
 bu satır develop_1 için
+bu satır develop_2 için
+
